@@ -1,16 +1,15 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-<!--
-**FrostOnAcid/FrostOnAcid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there 👋, My name is Björn
+## I am a young developer from Germany
+![I am a young developer from Germany](https://raw.githubusercontent.com/Wayeet/Wayeet/main/banner.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in anything related to hardware, software or network and system integration
+Message me on Twitter or on Discord(Wayeet#9438)
+
+Skills: HTML, CSS, Python, JavaScript, PHP, SQL, C, C++, C#, Java, Shell, Server/PC Hardware, Networking
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayeet&show_icons=true&count_private=true)
+
+
+
