@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://frostonacidgithub.vercel.app/api/spotify)](https://open.spotify.com/user/a479c565d83b44a0)
+[![Spotify](https://frostmain.vercel.app/api/spotify)](https://open.spotify.com/user/699343110)
 
 ---
 
