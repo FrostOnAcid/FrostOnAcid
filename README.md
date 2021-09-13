@@ -7,7 +7,7 @@
 I am interested in anything related to hardware, software or network and system integration
 Message me on Twitter or on Discord(Wayeet#9438)
 
-Skills: HTML, CSS, Python, JavaScript, PHP, SQL, C, C++, C#, Java, Shell, Server/PC Hardware, Networking
+Skills: nothing / beeing retarded
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostonacid&show_icons=true&count_private=true)
 
