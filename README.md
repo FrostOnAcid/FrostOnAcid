@@ -5,7 +5,9 @@
 ![I am an old developer from Germany](https://raw.githubusercontent.com/Wayeet/Wayeet/main/banner.gif)
 
 I am interested in anything related to hardware, software or network and system integration
-Message me on Twitter or on Discord(Wayeet#9438)
+Message me on Twitter or on Discord(shimo#9999)
+
+![discord.gg/frostchanger](https://discord.gg/frostchanger)
 
 Skills: nothing / beeing retarded
 
