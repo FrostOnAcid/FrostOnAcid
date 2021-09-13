@@ -7,7 +7,7 @@
 I am interested in anything related to hardware, software or network and system integration
 Message me on Twitter or on Discord(shimo#9999)
 
-![discord.gg/frostchanger](https://discord.gg/frostchanger)
+[discord.gg/frostchanger](https://discord.gg/frostchanger)
 
 Skills: nothing / beeing retarded
 
