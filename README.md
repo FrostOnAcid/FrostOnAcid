@@ -10,4 +10,6 @@
 
 [![Spotify](https://frostmain.vercel.app/api/spotify)](https://open.spotify.com/user/699343110)
 
+<div align="center" width="50">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/343695572961853441)](https://discord.com/users/343695572961853441)
