@@ -13,6 +13,6 @@
 
 
 
-### <align="center" Spotify Playing 🎧/>
+### Spotify Playing 🎧
 
 [![Spotify](https://frostmain.vercel.app/api/spotify)](https://open.spotify.com/user/699343110)
