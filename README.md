@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/343695572961853441)](https://discord.com/users/1187775312122085446)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1187775312122085446)](https://discord.com/users/1187775312122085446)
 
 <div align="center" width="50">
 
